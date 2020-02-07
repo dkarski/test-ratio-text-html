@@ -1,11 +1,12 @@
 import React from 'react';
-import styled from 'styled-components'
-
-const Box = styled.div``
+import {Box, Container} from "./Container";
 
 function App() {
   return (
-    <Box>Hello World!</Box>
+    <>
+      <Box lineHeight={[2, 2]} fontSize="18px">Hello World!</Box>
+      <Container crossorigin={true} dad={false}>Hello World!</Container>
+      </>
   );
 }
 
