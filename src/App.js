@@ -1,11 +1,10 @@
 import React from 'react';
-import {Box, Container} from "./Container";
+import {Box} from "./Container";
 
 function App() {
   return (
     <>
-      <Box lineHeight={[2, 2]} fontSize="18px">Hello World!</Box>
-      <Container crossorigin={true} dad={false}>Hello World!</Container>
+      <Box fontSize="18px">Hello World!</Box>
       </>
   );
 }
