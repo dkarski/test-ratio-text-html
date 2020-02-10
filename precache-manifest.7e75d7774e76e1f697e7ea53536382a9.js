@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "437c4cbecae598f3a1adb706bd7eb59d",
+    "revision": "760ccde8fb5cec8dcb0419c9c37caee4",
     "url": "/test-ratio-text-html/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-ratio-text-html/static/js/2.aada8474.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c0573588883e2fc352cb",
-    "url": "/test-ratio-text-html/static/js/main.a8b87d4a.chunk.js"
+    "revision": "6f1229f5839979a6ea65",
+    "url": "/test-ratio-text-html/static/js/main.f0d067f9.chunk.js"
   },
   {
     "revision": "bf79dfe9715d154bffba",

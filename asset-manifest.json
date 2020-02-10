@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/test-ratio-text-html/static/js/main.a8b87d4a.chunk.js",
-    "main.js.map": "/test-ratio-text-html/static/js/main.a8b87d4a.chunk.js.map",
+    "main.js": "/test-ratio-text-html/static/js/main.f0d067f9.chunk.js",
+    "main.js.map": "/test-ratio-text-html/static/js/main.f0d067f9.chunk.js.map",
     "runtime-main.js": "/test-ratio-text-html/static/js/runtime-main.94562920.js",
     "runtime-main.js.map": "/test-ratio-text-html/static/js/runtime-main.94562920.js.map",
     "static/js/2.aada8474.chunk.js": "/test-ratio-text-html/static/js/2.aada8474.chunk.js",
     "static/js/2.aada8474.chunk.js.map": "/test-ratio-text-html/static/js/2.aada8474.chunk.js.map",
     "index.html": "/test-ratio-text-html/index.html",
-    "precache-manifest.4c7ee4a6bb86704fb3f320af38ba7f0b.js": "/test-ratio-text-html/precache-manifest.4c7ee4a6bb86704fb3f320af38ba7f0b.js",
+    "precache-manifest.7e75d7774e76e1f697e7ea53536382a9.js": "/test-ratio-text-html/precache-manifest.7e75d7774e76e1f697e7ea53536382a9.js",
     "service-worker.js": "/test-ratio-text-html/service-worker.js",
     "static/js/2.aada8474.chunk.js.LICENSE.txt": "/test-ratio-text-html/static/js/2.aada8474.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.94562920.js",
     "static/js/2.aada8474.chunk.js",
-    "static/js/main.a8b87d4a.chunk.js"
+    "static/js/main.f0d067f9.chunk.js"
   ]
 }
