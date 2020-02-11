@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/test-ratio-text-html/static/js/main.971a981d.chunk.js",
-    "main.js.map": "/test-ratio-text-html/static/js/main.971a981d.chunk.js.map",
+    "main.js": "/test-ratio-text-html/static/js/main.5522cbe9.chunk.js",
+    "main.js.map": "/test-ratio-text-html/static/js/main.5522cbe9.chunk.js.map",
     "runtime-main.js": "/test-ratio-text-html/static/js/runtime-main.94562920.js",
     "runtime-main.js.map": "/test-ratio-text-html/static/js/runtime-main.94562920.js.map",
-    "static/js/2.79943d09.chunk.js": "/test-ratio-text-html/static/js/2.79943d09.chunk.js",
-    "static/js/2.79943d09.chunk.js.map": "/test-ratio-text-html/static/js/2.79943d09.chunk.js.map",
+    "static/js/2.22ae7152.chunk.js": "/test-ratio-text-html/static/js/2.22ae7152.chunk.js",
+    "static/js/2.22ae7152.chunk.js.map": "/test-ratio-text-html/static/js/2.22ae7152.chunk.js.map",
     "index.html": "/test-ratio-text-html/index.html",
-    "precache-manifest.acb67c55c7aa3512291913da18a405f8.js": "/test-ratio-text-html/precache-manifest.acb67c55c7aa3512291913da18a405f8.js",
+    "precache-manifest.464921dfceca2b4f007c64d7ff329cf3.js": "/test-ratio-text-html/precache-manifest.464921dfceca2b4f007c64d7ff329cf3.js",
     "service-worker.js": "/test-ratio-text-html/service-worker.js",
-    "static/js/2.79943d09.chunk.js.LICENSE.txt": "/test-ratio-text-html/static/js/2.79943d09.chunk.js.LICENSE.txt"
+    "static/js/2.22ae7152.chunk.js.LICENSE.txt": "/test-ratio-text-html/static/js/2.22ae7152.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.94562920.js",
-    "static/js/2.79943d09.chunk.js",
-    "static/js/main.971a981d.chunk.js"
+    "static/js/2.22ae7152.chunk.js",
+    "static/js/main.5522cbe9.chunk.js"
   ]
 }
